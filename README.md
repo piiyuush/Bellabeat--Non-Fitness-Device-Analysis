@@ -3,7 +3,7 @@
 ## A Google Data Analytics Professional Certificate Capstone Project
 
 
-<img align="right" width="500" height="400" src="https://github.com/piiyuush/Bellabeat--Non-Fitness-Device-Analysis/blob/main/GYM.jpg?raw=true">
+<img align="right" width="500" height="400" src="https://github.com/piiyuush/Bellabeat--Non-Fitness-Device-Analysis/blob/main/Bellabeat.jpg?raw=true">
 
 [Bellabeat]( https://bellabeat.com/) is a company specializing in crafting fitness products tailored for women. Their product lineup encompasses intelligent hydration vessels, stylish fitness timepieces and accessories, as well as yoga mats. Users can conveniently access their health metrics gathered by these gadgets through the Bellabeat app.
 
